@@ -1,0 +1,10 @@
+streamlit~=1.1.0
+pandas~=1.2.4
+matplotlib~=3.3.4
+requests~=2.25.1
+oandapyv20~=0.7.2
+v20~=3.0.25.0
+pillow~=8.2.0
+beautifulsoup4~=4.9.3
+scipy~=1.6.2
+scikit-learn~=0.24.1
